@@ -25,3 +25,11 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+pip install scapy
+```
+🧪 Example Usage
+
+```bash
+sudo python sniffer.py
+sudo python sniffer.py --protocol tcp --port 80
+```
