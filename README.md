@@ -25,7 +25,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
+
 Or manually:
 pip install scapy
 
@@ -55,10 +55,3 @@ Amit Bhatt
 yaml
 
 ---
-
-### ✅ Step 2: Commit the File
-Click “**Commit changes**” at the bottom of the GitHub page.
-
----
-
-Let me know once this is done — I’ll then give you the code for `sniffer.py` (the actual working script for packet capturing).
